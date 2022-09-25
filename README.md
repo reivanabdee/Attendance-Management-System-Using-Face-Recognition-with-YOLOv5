@@ -5,12 +5,14 @@ For sample video : https://youtu.be/npJaS8jVqak
 
 #Tutor
 
+-Clone this repo
+
 -Clone https://github.com/ultralytics/yolov5.git
 
--Pindahkan Absen.py ke dalam folder "yolov5"
+-Move absen.py to "yolov5" folder
 
 -install requipment.txt & install library mysql.connector
 
--import database yang berada pada folder "test"
+-import database from folder "test"
 
--running dengan model hasil train kalian
+-running with your train model
