@@ -20,4 +20,4 @@ For sample video : https://youtu.be/npJaS8jVqak
 -running with your train model
 
 
-*Btw this project masih dalam progress gaess
+*Btw project ini masih dalam progres mengingat penulis masih sibuk mengurus hal-hal eksternal
